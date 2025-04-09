@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proje_Nesne_Hareketler", "Proje_Nesne_Hareketler\Proje_Nesne_Hareketler.csproj", "{66D3F5E5-5023-42E4-AE6C-799AEFD1B839}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66D3F5E5-5023-42E4-AE6C-799AEFD1B839}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66D3F5E5-5023-42E4-AE6C-799AEFD1B839}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66D3F5E5-5023-42E4-AE6C-799AEFD1B839}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66D3F5E5-5023-42E4-AE6C-799AEFD1B839}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFE62CD8-366D-441F-8AB6-67498D9E5D1A}
+	EndGlobalSection
+EndGlobal
