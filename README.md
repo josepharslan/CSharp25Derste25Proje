@@ -10,7 +10,7 @@ Projeler; form kontrolleri, veritabanı bağlantıları, şifreleme, grafik işl
 ## 🔧 Kullanılan Teknolojiler
 
 - **Programlama Dili:** C#  
-- **Geliştirme Ortamı:** Visual Studio 2022 Professional
+- **Geliştirme Ortamı:** Visual Studio
 - **Arayüz:** Windows Forms  
 - **Veri Tabanı:** SQL Server, Access, Excel  
 - **Ek Teknolojiler:** RSS, XML, GDI+, List yapıları, Trigger’lar, WebBrowser, Timer
